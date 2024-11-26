@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	F:\web desing\New folder\New folder\Calculater\src\Calculater.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	F:\web desing\New folder\New folder\Calculater\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Microsoft\jdk-17.0.8.7-hotspot\
+Substitute:	PATH = C:\Program Files\MongoDB\Server\7.0\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\MongoDB\mongosh-2.1.5-win32-x64\bin;C:\Program Files\Git\cmd;C:\Users\sumal\AppData\Local\Android\Sdk\platform-tools;C:\Users\sumal\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sumal\AppData\Roaming\npm;C:\Users\sumal\AppData\Local\Microsoft\WindowsApps;C:\Users\sumal\AppData\Local\Programs\mongosh\;C:\Program Files\Microsoft\jdk-17.0.8.7-hotspot\\bin
+JRE paths:	C:\Program Files\Microsoft\jdk-17.0.8.7-hotspot\;C:\Program Files\MongoDB\Server\7.0\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\MongoDB\mongosh-2.1.5-win32-x64\bin;C:\Program Files\Git\cmd;C:\Users\sumal\AppData\Local\Android\Sdk\platform-tools;C:\Users\sumal\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sumal\AppData\Roaming\npm;C:\Users\sumal\AppData\Local\Microsoft\WindowsApps;C:\Users\sumal\AppData\Local\Programs\mongosh\;C:\Program Files\Microsoft\jdk-17.0.8.7-hotspot\\bin
+Check launcher:	C:\Program Files\Microsoft\jdk-17.0.8.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.017.000_008 / 64-Bit (OK)
+Launcher:	C:\Program Files\Microsoft\jdk-17.0.8.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "F:\web desing\New folder\New folder\Calculater\src\Calculater.exe"
+Args length:	72/32768 chars
+Exit code:	0
